@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello, this is a variable.";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
